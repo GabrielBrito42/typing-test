@@ -1,0 +1,53 @@
+.home-container{
+  text-align: center;
+  padding-top: 10px;
+  font-variant-numeric: slashed-zero;
+
+  .border{
+    border-radius: 10px;
+    border: 2px solid #3fb950 !important;
+    margin-bottom: 10px;
+    margin-top: 30%;
+    font-size: 25pt;
+  }
+
+  span{
+    font-size: 17pt;
+  }
+
+  input{
+    width: 100%;
+    text-align: center;
+    outline: none !important;
+  }
+
+  .error{
+    background-color: red;
+  }
+
+  .clock {
+    border-radius: 10px;
+    margin-top: 5px;
+    width: 100%;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: #21262d;
+    font-size: 19pt;
+  }
+
+  .icon{
+    font-size: 25pt;
+    color: #1f6feb;
+  }
+
+  .card{
+    border: 2px solid #3fb950 !important;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #21262d;
+    margin-top: 30%;
+  }
+
+  .clock-font{
+    font-size: 19pt !important;
+  }
+}
